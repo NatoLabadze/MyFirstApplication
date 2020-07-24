@@ -9,8 +9,5 @@ public class Employee {
     public int departmentId;
     public String department ;
 
-    public String getName() {
-        return name;
 
-    }
 }
